@@ -1,0 +1,23 @@
+.cubic{
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.cont-ball-one{
+    background-color: rgb(0, 255, 0);
+    
+}
+.cont-ball-two{
+    background-color: cornflowerblue;
+}
+.cont-ball-three{
+    background-color: yellow;
+}
+.cont-ball-four{
+    background-color: rgb(202, 20, 211);
+}
+.cont-ball-five{
+    background-color: red;
+    
+}
